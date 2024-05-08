@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGEnWC-C54/ztFSd2fFzxPVuslMWVBbuA/edit?utm_content=DAGEnWC-C54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/vidhigoyal619/vidhigoyal619/blob/main/banner%20github.jpg)
 <h1 align="center">Hi 👋, I'm Vidhi Goyal</h1>
 <h3 align="center">A passionate = (Full Stack Developer) => { console.log(Turning Code into Creative Solutions)}</h3>
 
